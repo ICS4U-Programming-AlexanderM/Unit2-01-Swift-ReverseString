@@ -1,0 +1,6 @@
+Hello
+Test
+
+String to be reversed12
+12002
+racecar
